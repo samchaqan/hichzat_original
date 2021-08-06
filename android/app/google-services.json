@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994166553110",
+    "project_id": "hichzat-6e3f5",
+    "storage_bucket": "hichzat-6e3f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994166553110:android:38469225fecaa8a7ee5337",
+        "android_client_info": {
+          "package_name": "emirhanuygur.hichzat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994166553110-11lc00sef1o52eerv4mmoh70birq10cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "emirhanuygur.hichzat",
+            "certificate_hash": "cee21ba91c0c75abbc5dbcbcbf707ffbb7b24a2d"
+          }
+        },
+        {
+          "client_id": "994166553110-lbq2uhecddl87qpr6880ons1rja4tvl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGfPapsuJFXy8qOHTRrxswUpqFgJBxTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994166553110-lbq2uhecddl87qpr6880ons1rja4tvl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
